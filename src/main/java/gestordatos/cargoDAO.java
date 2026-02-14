@@ -1,3 +1,8 @@
+/*
+ * Sistema de Control de Nómina
+ * Desarrollado por: Braulio Cajas (GitHub: braulioc8)
+ * Licencia: MIT
+ */
 package gestordatos;
 
 import conexsql.conexion;
@@ -9,6 +14,9 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Braulio Cajas
+ */
 public class cargoDAO {
 
     public boolean registrar(cargo c) {

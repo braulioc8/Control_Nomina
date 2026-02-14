@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * Sistema de Control de Nómina
+ * Desarrollado por: Braulio Cajas (GitHub: braulioc8)
+ * Licencia: MIT
  */
 package gestordatos;
 
@@ -16,7 +17,7 @@ import java.util.List;
 
 /**
  *
- * @author braulioo
+ * @author Braulio Cajas
  */
 public class asistenciaDAO {
 

@@ -1,10 +1,15 @@
+/*
+ * Sistema de Control de Nómina
+ * Desarrollado por: Braulio Cajas (GitHub: braulioc8)
+ * Licencia: MIT
+ */
 package gestormodelo;
 
 import java.sql.Date;
 
 /**
  * Modelo para representar un adelanto de sueldo.
- * @author braulioo
+ * @author Braulio Cajas
  */
 public class anticipo {
     private int idAnticipo;

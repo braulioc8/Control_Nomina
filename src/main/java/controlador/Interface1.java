@@ -1,3 +1,8 @@
+/*
+ * Sistema de Control de Nómina
+ * Desarrollado por: Braulio Cajas (GitHub: braulioc8)
+ * Licencia: MIT
+ */
 package controlador;
 
 import gestordatos.anticipoDAO;
@@ -21,7 +26,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author braulioo
+ * @author Braulio Cajas
  */
 public class Interface1 extends javax.swing.JFrame {
 

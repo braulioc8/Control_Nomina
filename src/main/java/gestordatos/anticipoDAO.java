@@ -1,3 +1,8 @@
+/*
+ * Sistema de Control de Nómina
+ * Desarrollado por: Braulio Cajas (GitHub: braulioc8)
+ * Licencia: MIT
+ */
 package gestordatos;
 
 import conexsql.conexion;
@@ -9,7 +14,7 @@ import java.sql.SQLException;
 /**
  * DAO para gestionar los adelantos de dinero (anticipos) de los trabajadores.
  * 
- * @author braulioo
+ * @author Braulio Cajas
  */
 public class anticipoDAO {
 

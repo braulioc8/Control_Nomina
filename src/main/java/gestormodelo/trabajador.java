@@ -1,9 +1,14 @@
+/*
+ * Sistema de Control de Nómina
+ * Desarrollado por: Braulio Cajas (GitHub: braulioc8)
+ * Licencia: MIT
+ */
 package gestormodelo;
 
 /**
  * Modelo para los trabajadores del sistema de raya.
  * Incluye campos de la tabla 'trabajadores' y auxiliares de 'cargos'.
- * * @author braulioo
+ * @author Braulio Cajas
  */
 public class trabajador {
     // Campos directos de la tabla 'trabajadores'
